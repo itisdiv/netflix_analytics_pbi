@@ -3,7 +3,7 @@ The project explored how ratings, votes, and genres differ across Netflix's cata
 
 # Analysing Netflix Movies & TV shows listings
 
-# 1. Content Ratings and Votes:
+## 1. Content Ratings and Votes:
 
 Average ratings were around 6.7.
 Votes were unevenly distributed across titles, highlighting varied audience preferences.
